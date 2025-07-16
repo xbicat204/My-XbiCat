@@ -2,7 +2,7 @@
   <img src="https://your-image-link.com/banner.png" width="600"/>
 </p>
 
-<h2 align="center">Ethical Hacker</h2>
+<h2 align="center">Software Engineering(SE- FOntend)</h2>
 <p align="center">
   <a href="www.linkedin.com/in/tong-phuc-khiem-de180092">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />

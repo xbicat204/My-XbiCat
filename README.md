@@ -15,6 +15,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="[https://link.to/cisco-badge.png](https://www.netacad.com/certificates?issuanceId=5f58aef2-ed30-4115-be55-36770a4e5070)" width="100"/>
+  <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100"/>
 </p>
 
